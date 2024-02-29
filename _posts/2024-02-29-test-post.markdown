@@ -1,0 +1,13 @@
+---
+layout: post
+title:  bienvenido (test post)
+date:   2024-02-29
+categories: personal
+tags: personal test
+categories: sample-posts
+giscus_comments: true
+featured: true
+thumbnail: assets/img/9.jpg
+---
+First post? Outstanding.
+
