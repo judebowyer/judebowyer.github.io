@@ -1,0 +1,11 @@
+"A&A":
+  url: https://www.aanda.org/
+  color: "#00369f"
+
+"PhysRevD":
+  url: https://journals.aps.org/prd/
+  color: "#00369f"
+
+"ArXiv":
+  url: https://arxiv.org
+  color: "#00369f"
