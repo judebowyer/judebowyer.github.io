@@ -22,7 +22,7 @@
       institution: Aberdeen Asset Management / Standard Life Aberdeen
       year: 2017 - 2020
       description:
-        - Leading force in delivering organisation-wide analytics platforms, data integrations, machine learning infrastructure and models
+        - Delivering organisation-wide analytics platforms, data integrations, machine learning infrastructure, and models.
     - title: Decision Scientist
       institution: Retail Insight
       year: 2016-2017
@@ -55,63 +55,62 @@
     - Knowledge Graphs, Mind Maps
     - Simulations & Backtests
 
-- title: Tools (Historical)
+- title: Tools
   type: list_groups
   contents:
     - category: General
       icon: fa-solid fa-toolbox
       items: 
         - name: Ubuntu
-          icon: fa-brands fa-ubuntu
+        #  icon: fa-brands fa-ubuntu
         - name: Windows
-          icon: fa-brands fa-windows
+        #  icon: fa-brands fa-windows
         - name: Confluence
-          icon: fa-brands fa-confluence
+        #  icon: fa-brands fa-confluence
         - name: Slack
-          icon: fa-brands fa-slack
+        #  icon: fa-brands fa-slack
         - name: VSCode
         - name: PyTest
         - name: Jenkins
         - name: Jupyter
-    - category: Languages
+    - category: Cloud
       icon: fa-solid fa-cloud
       items:
         - name: AWS
-          icon: fa-brands fa-aws
+        #  icon: fa-brands fa-aws
         - name: GCP
-          icon: fa-brands fa-google
+        #  icon: fa-brands fa-google
         - name: Azure
-          icon: fa-brands fa-microsoft
+        #  icon: fa-brands fa-microsoft
         - name: Docker
-          icon: fa-brands fa-docker
+        #  icon: fa-brands fa-docker
         - name: Git
-          icon: fa-brands fa-git-alt
+        #  icon: fa-brands fa-git-alt
         - name: Bitbucket
-          icon: fa-brands fa-bitbucket
+        #  icon: fa-brands fa-bitbucket
         - name: Airflow
-          icon: assets/img/tech_icons/apacheairflow.svg
+        #  icon: assets/img/tech_icons/apacheairflow.svg
+    - category: Languages
       icon: fa-solid fa-code
       items:
         - name: Python
-          icon: fa-brands fa-python
+        #  icon: fa-brands fa-python
         - name: Markdown
-          icon: fa-brands fa-markdown
+        #  icon: fa-brands fa-markdown
         - name: R
-          icon: fa-brands fa-r-project
-        - name: Matlab
+        #  icon: fa-brands fa-r-project
         - name: Mathematica
-        - name: C++11
         - name: Cypher
-        - name: LaTeX
-    - category: Databases
+        - name: C++11
+    - category: Data & databases
       icon: fa-solid fa-database
       items:
-        - name: PostgreSQL
-        - name: MySQL
+        - name: Postgres
         - name: SQLite
         - name: Neo4j
         - name: MongoDB
-        - name: ElasticSearch
+        - name: Pandas
+        - name: Pandera
     - category: MLOps
       icon: fa-solid fa-robot
       items:
@@ -120,8 +119,7 @@
         - name: Argo
         - name: Dask
         - name: Spark
-        - name: Databricks
-    - category: ML
+    - category: General ML
       icon: fa-solid fa-robot
       items:
         - name: Scikit-Learn
@@ -129,13 +127,26 @@
         - name: Keras
         - name: Neuraxle
         - name: XGBoost
+    - category: NLP
+      icon: fa-solid fa-table
+      items:
+        - name: OpenAI
+        - name: Huggingface
+        - name: Spacy
+        - name: NLTK
+    - category: GIS
+      icon: fa-solid fa-table
+      items:
+        - name: Geopandas
+        - name: Satpy
+        - name: Rasterio
+        - name: Pangeo
     - category: Data visualisation
       icon: fa-solid fa-chart-pie
       items:
         - name: Matplotlib
         - name: Superset
         - name: Holoviz
-        - name: Seaborn
         - name: Plotly
     - category: Data Extraction
       icon: fa-solid fa-table
@@ -143,12 +154,4 @@
         - name: Beautifulsoup4
         - name: Selenium
         - name: Scrapy
-    - category: Other Data Science
-      icon: fa-solid fa-table
-      items:
-        - name: PyMC
-        - name: Statsmodels
-        - name: Pandas
-        - name: Spacy
-        - name: NLTK
-        - name: Geopandas
+
