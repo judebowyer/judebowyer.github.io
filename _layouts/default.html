@@ -60,5 +60,10 @@
     {% include scripts/analytics.html %}
     {% include scripts/progressBar.html %}
     {% include scripts/wechatModal.html %}
+
+    {% if jekyll.environment == 'production' %}
+    {% include analytics.html %}
+    {% endif %}
+
   </body>
 </html>
