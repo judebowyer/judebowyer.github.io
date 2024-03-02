@@ -6,7 +6,7 @@ permalink: /
 
 profile:
   align: right
-  # image: prof_pic.jpg
+  # image: logo.png
   # image_circular: false # crops the image to make it circular
   # more_info: >
   #   <p>London / Madrid</p>
@@ -16,7 +16,7 @@ latest_posts: true  # includes a list of the newest posts
 social: true  # includes social icons at the bottom of the page
 ---
 
-Welcome to my site! I'm a science, data, and machine learning professional, mostly operating in the finance and sustainability spaces.
+Welcome to my site! I'm a science, data, and machine learning professional, mostly operating in the finance and sustainability sectors.
 
 For professional enquiries, please contact me via [LinkedIn](https://www.linkedin.com/in/judebowyer). My technical focus is in data integrations and machine learning:  This typically involves knowledge graphs, NLP, timeseries, or spatial data methods. I enjoy strategic discussions as much as delving into the technical details.
 
