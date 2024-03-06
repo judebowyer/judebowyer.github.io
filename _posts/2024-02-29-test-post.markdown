@@ -7,7 +7,7 @@ tags: personal test
 categories: sample-posts
 giscus_comments: true
 featured: true
-thumbnail: assets/img/9.jpg
+thumbnail: assets/img/theme/pexels-pixabay-460672.jpg
 ---
 First post? Outstanding.
 
