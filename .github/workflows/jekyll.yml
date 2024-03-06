@@ -47,7 +47,7 @@ jobs:
              gem install jekyll jekyll-archives jekyll-email-protect jekyll-feed jekyll-get-json jekyll-imagemagick &&
              gem install jekyll-jupyter-notebook jekyll-link-attributes jekyll-minifier jekyll-paginate-v2 jekyll-scholar jekyll-sitemap &&
              gem install jekyll-toc jekyll-twitter-plugin jemoji mini_racer unicode_utils materialize &&
-             gem install i18n -v 1.14.1
+             gem install i18n -v 1.14.1 &&
              gem install webrick -v 1.7.0 &&
              gem install feedjira -v 3.2.2 &&
              gem install rake -v 13.0.6 &&
